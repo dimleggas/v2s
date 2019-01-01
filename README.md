@@ -9,3 +9,5 @@ python train.py train ./train --data_dir drumming
 ```
 
 predictions.ipynb is used for creating wav files from the predicted numpy arrays.
+
+TODO: Need to resolve batch loading issue. This seems to be preventing proper training.
